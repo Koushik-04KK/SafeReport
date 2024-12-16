@@ -9,7 +9,7 @@
 
 ## <a name="introduction"> Introduction</a>
 
-This is a state-of-the-art anonymous reporting system built with Next.js 14, designed to provide a secure platform for reporting incidents while maintaining complete anonymity.
+This advanced anonymous reporting system, built using Next.js 14, provides a robust and secure platform for incident reporting. Designed with a focus on user privacy, it ensures complete anonymity while enabling seamless and efficient reporting of sensitive issues. Whether it's fostering trust or safeguarding confidentiality, this system establishes a new benchmark for secure communication.
 
 ## <a name="tech-stack"> Tech Stack</a>
 
